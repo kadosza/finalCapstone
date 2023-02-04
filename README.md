@@ -35,12 +35,14 @@ You can also clone the repository into a new directory by following steps [here]
 
 <a name="usage"></a>
 ## 4. Usage: 
-Run each cell in the file from the top to see each step of the analysis.  how to scale, use principal component analysis and how to create models for unsupervised machine learning.
- The file runs through uploading, inspecting the data, preprocessing, checking for correlations, running a PCA on non-standardised data, standardising and running a PCA on the standardised data, producing dendrograms and K-means.
- 
-![Dendrogram](C:\Users\bdzie\byb_project\img.png?raw=true "Optional Title")
+Run each cell in the file from the top to see each step of the analysis. The main findings can be found at the end.  
+Sample visual representations:
+
+![image](https://user-images.githubusercontent.com/119047693/216773743-718582e3-ea1a-44f3-b4b0-a57edb6f6de3.png)
+![image](https://user-images.githubusercontent.com/119047693/216774040-bfc01e13-a306-424d-a589-410d44ba6e70.png)
+![image](https://user-images.githubusercontent.com/119047693/216773609-07ffcd76-3cc8-4ae5-9f9f-8e85928e6b67.png)
 
 <a name="credits"></a>
 ## 5. Credits: 
-Author: Barbara Domanska.
+Author: Barbara Domanska.  
 Thanks to HyperionDev https://www.hyperiondev.com/ that inspired me to build this project.
